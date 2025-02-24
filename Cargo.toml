@@ -1,0 +1,10 @@
+[package]
+name = "wrapper"
+version = "0.1.4"
+authors = ["Maarten Deprez <mdp@continuousc.eu>"]
+repository = "https://github.com/ContinuousC/Wrapper.git"
+license = "Elastic-2.0"
+edition = "2021"
+publish = false
+
+[dependencies]
